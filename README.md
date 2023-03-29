@@ -9,7 +9,7 @@ Java 개발자 과정 프론트앤드 리포지토리
     - HTML 5 기본태그
 
 1일차 학습내용
-<img src="https://raw.githubusercontent.com/NawhesJoo/basic-html-2023/main/Image/Day01.png" width="300">
+<img src="https://raw.githubusercontent.com/NawhesJoo/basic-html-2023/main/Image/Day01.png" width="700">
 
 ## 2일차
 - 프론트엔드 학습
@@ -25,7 +25,7 @@ Java 개발자 과정 프론트앤드 리포지토리
 
 3일차 레이아웃
 
-<img src="https://raw.githubusercontent.com/NawhesJoo/basic-html-2023/main/Image/layout.png" width="600">
+<img src="https://raw.githubusercontent.com/NawhesJoo/basic-html-2023/main/Image/layout.png" width="700">
 
 ## 4일차
 - 프론트엔드 학습
@@ -36,7 +36,7 @@ Java 개발자 과정 프론트앤드 리포지토리
 
 4일차 Grid 레이아웃 포토갤러리
 
-<img src="https://raw.githubusercontent.com/NawhesJoo/basic-html-2023/main/Image/gallery01.png" width="600">
+<img src="https://raw.githubusercontent.com/NawhesJoo/basic-html-2023/main/Image/gallery01.png" width="700">
 
 ## 5일차
 - 프론트엔드 학습
