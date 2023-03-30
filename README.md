@@ -77,6 +77,9 @@ Parallax Scrolling Web
 ## 8일차
 - 프론트엔드 학습
     - Single Page Template
-    - SB Admin Page
+    - SB Admin Page 
 
+Grayscale Sing Palge Template    
+
+<img src="https://raw.githubusercontent.com/NawhesJoo/basic-html-2023/main/Image/portfoli3.gif" width="700">
     
