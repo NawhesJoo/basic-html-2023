@@ -81,7 +81,7 @@ Parallax Scrolling Web
 
 Grayscale Sing Palge Template    
 
-<img src="https://raw.githubusercontent.com/NawhesJoo/basic-html-2023/main/Image/portfoli3.gif" width="700">
+<img src="https://raw.githubusercontent.com/NawhesJoo/basic-html-2023/main/Image/portfolio3.gif" width="700">
     
 ## 9일차
 - 프론트엔드 학습
