@@ -86,6 +86,9 @@ Grayscale Sing Palge Template
 ## 9일차
 - 프론트엔드 학습
     - SB Admin Page
+        - Bootstrap
+        - Chart.js
+        - 
 
 SB Admin Page 중간단계
 
