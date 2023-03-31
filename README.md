@@ -92,4 +92,4 @@ Grayscale Sing Palge Template
 
 SB Admin Page 중간단계
 
-<img src="https://raw.githubusercontent.com/NawhesJoo/basic-html-2023/main/Image/portfolio4_middle." width="700">
+<img src="https://raw.githubusercontent.com/NawhesJoo/basic-html-2023/main/Image/portfolio4_middle.png" width="700">
