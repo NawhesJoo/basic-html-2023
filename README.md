@@ -75,7 +75,7 @@ Parallax Scrolling Web
 <img src="https://raw.githubusercontent.com/NawhesJoo/basic-html-2023/main/Image/portfolio2.png" width="700">
 
 ## 8일차
-- 프론트엔드 학습
+- 프론트엔드 실습
     - Single Page Template
     - SB Admin Page 
 
@@ -84,7 +84,7 @@ Grayscale Sing Palge Template
 <img src="https://raw.githubusercontent.com/NawhesJoo/basic-html-2023/main/Image/portfolio3.gif" width="700">
     
 ## 9일차
-- 프론트엔드 학습
+- 프론트엔드 실습
     - SB Admin Page
         - Bootstrap
         - Chart.js
@@ -93,3 +93,19 @@ Grayscale Sing Palge Template
 SB Admin Page 중간단계
 
 <img src="https://raw.githubusercontent.com/NawhesJoo/basic-html-2023/main/Image/portfolio4_middle.png" width="700">
+
+## 10일차
+- 프론트엔드 실습
+    - SB Admin Page 마무리
+        - [simple-datatable.js](https://github.com/fiduswriter/simple-datatables)
+
+SB Admin Page 마무리
+
+<img src="https://raw.githubusercontent.com/NawhesJoo/basic-html-2023/main/Image/portfolio4.png" width="700">
+
+## 11일차
+- 프론트엔드 실습
+    -
+
+## 12일차
+    -
