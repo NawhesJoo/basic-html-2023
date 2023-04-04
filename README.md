@@ -88,7 +88,6 @@ Grayscale Sing Palge Template
     - SB Admin Page
         - Bootstrap
         - Chart.js
-        - 
 
 SB Admin Page 중간단계
 
@@ -105,7 +104,9 @@ SB Admin Page 마무리
 
 ## 11일차
 - 프론트엔드 실습
-    - 
+    - Dream Jeju
+
+<img src="https://raw.githubusercontent.com/NawhesJoo/basic-html-2023/main/Image/portfolio5.png" width="700">
 
 ## 12일차
     -
